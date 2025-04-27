@@ -1,0 +1,82 @@
+HAI 1.2
+OBTW 
+I LOVES HEXADECIMAL SO MUCH IS IT NOT COOL 
+TLDR
+
+I HAS A x ITZ 0 x = 0
+I HAS A TOY ITZ "" TOY = ''
+I HAS A CUTE_CAT ITZ A NOOB CUTE_CAT = []
+CUTE_CAT R BOTH SAEM 52 AN 4 AN -13 AN 11 AN -8
+I HAS A engwish ITZ A NOOB
+engwish R BOTH SAEM "a" AN "b" AN "c" AN "d" AN "e" AN "f"
+
+IM IN YR CUTE_CAT UPPIN YR i TIL BOTH SAEM i AN DIFFRNT OF LENGTH OF CUTE_CAT
+    x R SUM OF x AN CUTE_CAT'Z i
+    TOY R SMOOSH TOY x AN " "
+IM OUTTA YR CUTE_CAT
+
+TOY R SMOOSH TOY 7 AN engwish'Z 1 AN " "
+
+BOTH SAEM MOD OF LENGTH OF engwish AN 2 AN 0, O RLY?
+    YA RLY
+        x R SUM OF x AN 15
+        IM IN YR 2 TIMES
+            TOY R SMOOSH TOY x AN " "
+            x R SUM OF x AN 16
+        IM OUTTA YR 2 TIMES
+        TOY R SMOOSH TOY DIFF OF x AN 16 AN " "
+    NO WAI
+        VISIBLE "HAI WORLD"
+    OIC
+
+BTW LEMME GIVE YOU A BREAKIE
+TOY R SMOOSH TOY "5f 6c 6f 6c 63 61 74 73 "
+VISIBLE "i love breaks "
+BTW BREAKIE OVER
+
+x R 5
+BOTH SAEM 1 AN 1, O RLY?
+    YA RLY
+        TOY R SMOOSH TOY x AN engwish'Z DIFF OF LENGTH OF engwish AN 1 AN " "
+    NO WAI
+        TOY R SMOOSH TOY x AN engwish'Z 0 AN " "
+    OIC
+
+I HAS A j ITZ QUOSHUNT OF DIFF OF 295 AN 3 AN 4
+TOY R SMOOSH TOY j AN " "
+TOY R SMOOSH TOY SUM OF x AN 1 AN engwish'Z DIFF OF LENGTH OF engwish AN 1 AN " "
+
+I HAS A gimme_snackies ITZ 0
+IM IN YR 15 TIMES
+    gimme_snackies R SUM OF gimme_snackies AN 3
+IM OUTTA YR 15 TIMES
+
+BOTH SAEM MOD OF gimme_snackies AN 2 AN 0, O RLY?
+    YA RLY
+        TOY R SMOOSH TOY "6e 72 69 61 6b 69 6e 07 00 63 75"
+    NO WAI
+        BOTH SAEM MOD OF gimme_snackies AN 2 AN DIFFRNT OF 0, OIC
+            TOY R SMOOSH TOY "66 72 65 61 6b 69 6e 67 5f 63 75"
+        OIC
+        NO WAI
+            TOY R SMOOSH TOY "60 72 15 61 6b 69 6e 2p 5f 63 05"
+        OIC
+    OIC
+
+I HAS A bye_bye ITZ SUM OF 69 AN 5
+TOY R SMOOSH TOY bye_bye AN " "
+TOY R SMOOSH TOY DIFF OF bye_bye AN 9 AN " "
+
+I HAS A cat ITZ 1
+I HAS A dog ITZ 0
+
+BOTH SAEM BIGGR OF cat AN dog AN cat, O RLY?
+    YA RLY
+        TOY R SMOOSH TOY "7d "
+    NO WAI
+        TOY R SMOOSH TOY "5d "
+    OIC
+
+VISIBLE TOY
+
+KTHXBYE
