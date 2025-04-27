@@ -1,0 +1,3 @@
+difficulty: medium
+The North Korean's are still after Baba for the several war crimes he committed in their country. In order to better optimise the locations of the nukes they drop such that Baba is guaranteed to be hit, they decided to make a helpful UI to determine exactly where the nukes should be dropped! Baba has managed to successfully infiltrate into their website. He needs to find a way to mess up their website so that the bombs don't land on him. Can you help Baba escape his imminent doom? P.S. This challenge requires a dockerfile to run, when you do get the solution please screenshot and send charles for the actual flag. This is just a temporary measure we will get we challs working soon
+Author: Zhong bob
