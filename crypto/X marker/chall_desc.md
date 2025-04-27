@@ -1,3 +1,3 @@
 difficulty: easy
-really really easy rsa.
+X marks the spot.
 Author: zian

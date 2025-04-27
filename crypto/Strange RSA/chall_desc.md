@@ -1,0 +1,3 @@
+difficulty: hard
+Strange RSA...
+Author: zian

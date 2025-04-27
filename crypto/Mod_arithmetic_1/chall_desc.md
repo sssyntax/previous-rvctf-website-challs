@@ -1,0 +1,3 @@
+difficulty: easy
+We found this weird message being passed around on the servers, we think we have a working decryption scheme. Take each number mod 37 and map it to the following character set: 0-25 is the alphabet (uppercase), 26-35 are the decimal digits, and 36 is an underscore. Wrap your decrypted message in the rvctf flag format (i.e. RVCTF{decrypted_message}) 128 322 353 235 336 73 198 332 202 285 57 87 262 221 218 405 335 101 256 227 112 140
+Author: johnbrong
